@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1577781228 source:c:\users\user\desktop\c++ projects\cache_simulator\main.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+

@@ -1,0 +1,6 @@
+
+Address -1-->	0x6dfc80	0x6dfc88	0x6dfc90
+
+Total number of address units : 23
+Total number of hits : 10
+Hit ratio : 0.434783
